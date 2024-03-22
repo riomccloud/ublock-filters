@@ -2,5 +2,6 @@ bsky.app##a.r-3o4zer.r-xyw6el.r-uaa2di.r-18u37iz.r-1xfd6ze.r-1awozwy.r-1otgn73.r
 bsky.app##a.r-3o4zer.r-xyw6el.r-uaa2di.r-18u37iz.r-1xfd6ze.r-1awozwy.r-1otgn73.r-1loqt21.css-175oi2r:nth-of-type(3)
 bsky.app##a.r-3o4zer.r-xyw6el.r-uaa2di.r-18u37iz.r-1xfd6ze.r-1awozwy.r-1otgn73.r-1loqt21.css-175oi2r:nth-of-type(4)
 bsky.app##a.r-3o4zer.r-xyw6el.r-uaa2di.r-18u37iz.r-1xfd6ze.r-1awozwy.r-1otgn73.r-1loqt21.css-175oi2r:nth-of-type(6)
+bsky.app##.r-19554kt.r-f727ji.r-bplmwz.r-1otgn73.r-1loqt21.css-175oi2r
 bsky.app##.r-199wky7.r-1qd7xl.r-1pgswnq.r-u8s1d.r-1g7fiml.r-1otgn73.r-1loqt21.r-lrvibr.r-1i6wzkk.css-175oi2r
 bsky.app##.r-1ipicw7.r-3o4zer.r-1la3zjv.r-1rnoaur.r-13awgt0.css-175oi2r
