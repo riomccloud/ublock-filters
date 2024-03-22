@@ -1,0 +1,8 @@
+your.instance##a.column-link--transparent.column-link:nth-of-type(1)
+your.instance##a.column-link--transparent.column-link:nth-of-type(3)
+your.instance##a.column-link--transparent.column-link:nth-of-type(4)
+your.instance##a.column-link--transparent.column-link:nth-of-type(5)
+your.instance##a.column-link--transparent.column-link:nth-of-type(7)
+your.instance##a.column-link--transparent.column-link:nth-of-type(8)
+your.instance##a.column-link--transparent.column-link:nth-of-type(9)
+your.instance##.tabs-bar__wrapper
