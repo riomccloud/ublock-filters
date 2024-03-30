@@ -5,5 +5,5 @@ your.instance##a.column-link--transparent.column-link:nth-of-type(5)
 your.instance##a.column-link--transparent.column-link:nth-of-type(7)
 your.instance##a.column-link--transparent.column-link:nth-of-type(8)
 your.instance##a.column-link--transparent.column-link:nth-of-type(9)
-your.instance####.navigation-panel__logo
+your.instance##.navigation-panel__logo
 your.instance##.tabs-bar__wrapper
