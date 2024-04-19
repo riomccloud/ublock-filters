@@ -1,0 +1,28 @@
+! Header with username and post number
+twitter.com##.r-1g40b8q.r-1gn8etr.r-gtdqiz.r-aqfbo4.css-175oi2r
+! People you may know
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(3)
+! Trending Topics
+twitter.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r:nth-of-type(4)
+! X logo
+twitter.com##.r-1vvnge1.r-dnmrzs.css-175oi2r
+! Homepage
+twitter.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-oyd9sg.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(1)
+! Explore
+twitter.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-oyd9sg.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(2)
+! Lists
+twitter.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-oyd9sg.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(5)
+! Saved items
+twitter.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-oyd9sg.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(6)
+! Communities
+twitter.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-oyd9sg.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(7)
+! Premium
+twitter.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-oyd9sg.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(8)
+! Monetization
+twitter.com##.r-1mnxbyr.css-175oi2r > div.r-18u37iz.r-1awozwy.css-175oi2r:nth-of-type(1)
+! Ads
+twitter.com##.r-1mnxbyr.css-175oi2r > div.r-18u37iz.r-1awozwy.css-175oi2r:nth-of-type(2)
+! Jobs
+twitter.com##.r-1mnxbyr.css-175oi2r > div.r-18u37iz.r-1awozwy.css-175oi2r:nth-of-type(3)
+! Create your space
+twitter.com##.r-1mnxbyr.css-175oi2r > div.r-18u37iz.r-1awozwy.css-175oi2r:nth-of-type(4)
