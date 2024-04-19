@@ -16,6 +16,8 @@ twitter.com##a.r-1loqt21.r-1ny4l3l.r-rjfia.r-13qz1uu.r-1habvwh.r-16y2uox.r-eqz5d
 twitter.com##a.r-1loqt21.r-1ny4l3l.r-rjfia.r-13qz1uu.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(6)
 ! Premium
 twitter.com##a.r-1loqt21.r-1ny4l3l.r-rjfia.r-13qz1uu.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(7)
+! Create your Space
+twitter.com##div.r-18u37iz.r-1awozwy.css-175oi2r:nth-of-type(5)
 ! Saved items
 twitter.com##.r-1mnxbyr.css-175oi2r > div.r-18u37iz.r-1awozwy.css-175oi2r:nth-of-type(1)
 ! Monetization
