@@ -1,0 +1,1 @@
+x.com##a:has(>div>div>span:has-text(/lista/i))
