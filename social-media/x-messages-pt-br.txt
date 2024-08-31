@@ -1,0 +1,2 @@
+x.com##a:has(>div>div>span:has-text(/mensage/i))
+x.com##div:has(>div>div>div>div>div>div>div>div>div>div>div>h2>div>div>span>span:has-text(/mensagen/i))
