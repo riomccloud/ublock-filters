@@ -10,6 +10,7 @@ x.com##a:has(>div>div>span:has-text(/premium/i))
 x.com##a:has(>div>div>span:has-text(/salvo/i))
 x.com##a:has(>div>div>span:has-text(Ads))
 x.com##a[href="/i/verified-choose"]
+x.com##div:has(>a>div>div>span:has-text(/seguidores verificados/i))
 x.com##div:has(>aside[aria-label*='relevante' i])
 x.com##div:has(>div>a>div>span>span:has-text(/verific/i))
 x.com##div:has(>div>aside[aria-label*='ao vivo' i])
