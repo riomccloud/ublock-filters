@@ -1,3 +1,0 @@
-youtube.com##ytd-reel-shelf-renderer
-youtube.com##ytd-shelf-renderer
-youtube.com##ytd-secondary-search-container-renderer

@@ -1,7 +1,0 @@
-bsky.app##a[aria-label*='home' i]
-bsky.app##a[aria-label*='search' i]
-bsky.app##a[aria-label*='chat' i]
-bsky.app##a[aria-label*='feed' i]
-bsky.app##a[aria-label*='list' i]
-bsky.app##a[aria-label='profile' i]
-bsky.app##div:has(>div>a:has-text(/more feeds/i))

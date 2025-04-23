@@ -1,2 +1,0 @@
-web.whatsapp.com###side > div:nth-of-type(3)
-web.whatsapp.com##.x1n2onr6.x5yr21d.xdxvlk3.x1fglp.x1rp6h8o.xg6i1s1.x15406qy.x1d8287x.xwji4o3.xj8bxqt.x1o9mn2u.xpbnuc5.x2btq54.x86at4b.xzl7c9v.x1ad89wd.x1i1grao.x17adc0v.x1sln4lm.x1iji9kk.x123j3cw.xg8j3zb

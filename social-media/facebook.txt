@@ -1,4 +1,0 @@
-facebook.com##div[data-nosnippet]
-facebook.com##div[role^="banner"]
-facebook.com##.x9f619.x1ja2u2z.x1xzczws.x7wzq59:style(top: 0 !important)
-facebook.com##.xxzkxad:style(top: 0 !important)

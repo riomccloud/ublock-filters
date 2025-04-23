@@ -1,2 +1,0 @@
-github.com##.color-bg-default.border-right.hide-sm.hide-md.border-bottom.color-border-muted.col-lg-3.col-md-4.feed-left-sidebar
-github.com##.feed-right-sidebar
