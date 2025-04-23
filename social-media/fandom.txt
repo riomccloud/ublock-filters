@@ -13,3 +13,4 @@ fandom.com##.page__right-rail
 fandom.com##.resizable-container:style(max-width: revert !important; margin: 0 2rem 48px 2rem !important; width: revert !important;)
 fandom.com##.nkch-rdp
 fandom.com##.unified-search__layout__right-rail
+fandom.com##section:has(>div>div>h3:has-text(/quick answer/i))a
