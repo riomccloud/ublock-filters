@@ -9,6 +9,7 @@
 ! AI CHATBOTS
 ||character.ai^
 ||chatgpt.com^
+||claude.ai^
 ||copilot.microsoft.com^
 ||deepai.org^
 ||gemini.google.com^
@@ -23,14 +24,19 @@
 ||1001jogos.com.br^
 ||360jogos.com^
 ||5nightsatfreddys.io^
+||agnesgames.com^
 ||baldigames.com^
 ||baldisbasics.io^
 ||bignox.com^
 ||bluestacks.com^
 ||boardgamearena.com^
 ||boardgamearena.net^
+||boxheadx.com^
+||candygamespop.com^
 ||classicube.net^
 ||clickjogos.com.br^
+||contexto.me^
+||coolgames.com^
 ||crazygames.com^
 ||crazygames.com.br^
 ||dinorunner.com^
@@ -55,10 +61,15 @@
 ||frivjogosonline.com.br^
 ||friv-2017.com^
 ||gamaverse.com.br^
+||gamecici.com^
 ||gamedistribution.com^
 ||gameflare.com^
+||gameforge.com^
 ||gameloop.com^
 ||gamemonetize.co^
+||gamemonetize.com^
+||gamemonetize.video^
+||gamepix.com^
 ||games.s3.yandex.net^
 ||gameslol.net^
 ||garena.com^
@@ -69,12 +80,16 @@
 ||granny.games^
 ||granny-games.com^
 ||hellopcgames.com^
+||hoopgame.net^
 ||jacksmithgame.io^
+||jetspaz.com^
 ||jogos101.com^
+||jogos123.net^
 ||jogos360.com.br^
 ||jogos360.org^
 ||jogosnainternet.com.br^
 ||kevin.games^
+||lablockedgames.com^
 ||ldplayer.net^
 ||llaun.ch^
 ||mahjong-jogo.com^
@@ -89,11 +104,13 @@
 ||novelgames.com^
 ||ojogos.com.br^
 ||pacogames.com^
+||papergames.io^
 ||pgsoft-games.com^
 ||play-cs.com^
 ||playhop.com^
 ||poki.com^
 ||pranx.com^
+||princesadosjogos.com^
 ||recargajogo.com.br^
 ||roblox.com^
 ||rockstargames.com^
@@ -102,6 +119,8 @@
 ||steampowered.com^
 ||sz-games.github.io^
 ||tlauncher.org^
+||trolljogos.com^
+||unblockeds-games.com^
 ||yiyaplay.com^
 !
 ! SEARCH ENGINES
