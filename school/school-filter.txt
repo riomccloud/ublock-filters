@@ -3,7 +3,7 @@
 ! Description: Blocks online AI chatbots, games and search engines (except for Google, which can't be blocked at DNS level without breaking other services - other search engines have AI summaries and other crap).
 ! Homepage: https://github.com/riomccloud/ublock-filters
 ! Issues: https://github.com/riomccloud/ublock-filters/issues
-! Version: 2024.1107.01
+! Version: 2025.0425.01
 ! Syntax: AdBlock
 !
 ! AI CHATBOTS
