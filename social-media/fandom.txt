@@ -5,6 +5,7 @@ fandom.com###content:style(border: revert !important;)
 fandom.com###global-explore-navigation
 fandom.com###global-top-navigation:style(position: revert !important;)
 fandom.com###mw-data-after-content
+fandom.com###WikiaBar
 fandom.com##.community-header-wrapper:style(height: revert !important;)
 fandom.com##.fandom-community-header__background:style(padding: 0 !important; width: 100% !important; transform: revert !important;)
 fandom.com##.global-footer__content
@@ -12,5 +13,6 @@ fandom.com##.main-container:style(margin: 0 !important; width: 100% !important;)
 fandom.com##.page__right-rail
 fandom.com##.resizable-container:style(max-width: revert !important; margin: 0 2rem 48px 2rem !important; width: revert !important;)
 fandom.com##.nkch-rdp
+fandom.com##.notifications-placeholder
 fandom.com##.unified-search__layout__right-rail
-fandom.com##section:has(>div>div>h3:has-text(/quick answer/i))a
+fandom.com##section:has(>div>div>h3:has-text(/quick answer/i))
