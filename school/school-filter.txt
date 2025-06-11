@@ -3,7 +3,7 @@
 ! Description: Blocks online AI chatbots, games and search engines (except for Google, which can't be blocked at DNS level without breaking other services - other search engines have AI summaries and other crap).
 ! Homepage: https://github.com/riomccloud/ublock-filters
 ! Issues: https://github.com/riomccloud/ublock-filters/issues
-! Version: 2025.0505.01
+! Version: 2025.0611.01
 ! Syntax: AdBlock
 !
 ! AI CHATBOTS
@@ -14,9 +14,11 @@
 ||copilot.microsoft.com^
 ||deepai.org^
 ||deepseek.com^
+||gauthmath.com^
 ||gemini.google.com^
 ||julius.ai^
 ||luzia.chat^
+||luzia.com^
 ||meta.ai^
 ||openai.com^
 ||perplexity.ai^
@@ -27,6 +29,7 @@
 ||360jogos.com^
 ||5nightsatfreddys.io^
 ||agnesgames.com^
+||akinator.com^
 ||baldigames.com^
 ||baldisbasics.io^
 ||bignox.com^
@@ -75,7 +78,9 @@
 ||games.s3.yandex.net^
 ||gameslol.net^
 ||garena.com^
+||gartic.com^
 ||gartic.com.br^
+||gartic.io^
 ||geometrygame.org^
 ||glov3.me^
 ||gombis.com^
@@ -108,6 +113,7 @@
 ||pacogames.com^
 ||papergames.io^
 ||pgsoft-games.com^
+||pipacombate.com^
 ||play-cs.com^
 ||playhop.com^
 ||poki.com^
@@ -119,8 +125,10 @@
 ||run3.io^
 ||steamcommunity.com^
 ||steampowered.com^
+||stopots.com^
 ||sz-games.github.io^
 ||tlauncher.org^
+||trex-runner.com^
 ||trolljogos.com^
 ||unblockeds-games.com^
 ||yiyaplay.com^
